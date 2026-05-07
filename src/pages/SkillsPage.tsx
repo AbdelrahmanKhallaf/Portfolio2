@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 
 const SkillsPage: React.FC = () => {
-  const [activeCategory, setActiveCategory] = useState("ai");
+  const [activeCategory, setActiveCategory] = useState("Web");
 
   const skillCategories = {
     Web:{
