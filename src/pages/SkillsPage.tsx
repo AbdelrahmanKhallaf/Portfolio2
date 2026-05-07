@@ -38,7 +38,7 @@ const SkillsPage: React.FC = () => {
         },
       
       ],
-    },
+    },/*
      ai: {
       title: "AI, LLMs & Computer Vision",
       icon: Brain,
@@ -72,7 +72,7 @@ const SkillsPage: React.FC = () => {
           experience: "1+ years",
         },
       ],
-    },
+    }, */ 
     data: {
       title: "Data Analytics & Workflows",
       icon: BarChart3,
