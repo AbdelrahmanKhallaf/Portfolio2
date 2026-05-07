@@ -39,7 +39,7 @@ const EducationPage: React.FC = () => {
       issuer: "Harvard University",
       year: "2025",
       type: "Professional Certification"
-    },
+    },/*
     {
       title:
         "Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn",
@@ -52,7 +52,7 @@ const EducationPage: React.FC = () => {
       issuer: "Cisco Networking Academy",
       year: "2025",
       type: "Professional Certification",
-    },
+    },*/
   ];
 
   return (
